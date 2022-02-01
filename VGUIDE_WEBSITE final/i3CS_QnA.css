@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+nav {
+    margin-bottom: 100vh;
+}
+
+form {
+    margin-top: 90px;
+}
+
+.bg12 {
+    background-color: #021428;
+    background-size: cover;
+}
+
+.buttonQ {
+    margin: 50px;
+}
+
+#navItem1 {
+    margin-right: 50px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    font-family: "Montserrat";
+}
+
+#navItem3 {
+    margin-right: 50px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 500;
+    color: white;
+    font-family: "Montserrat";
+}
+
+#navItem4 {
+    margin-right: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    font-family: "Montserrat";
+}
+
+#decor {
+    background-color: #FF4343;
+    border-radius: 10px;
+    font-style: normal;
+    width: 100%;
+    color: #ffffff;
+}
+
+.logo{
+    margin-right: 50px;
+    padding-top: 6%;
+    font-size: 20px;
+    text-align: center;
+    color: #FFBB00;
+    font-weight: 500;
+    font-family: "Montserrat";
+  }
+
+.bg11 {
+    background-color: #0d3047;
+    height: 100vh;
+    background-size: cover;
+    width: 100vw;
+}
+
+.card {
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.btn-back{
+    margin: 2% 5% 3% 0%;
+    padding: 0.5% 1.5%;
+    border-radius: 12%;
+    background-color: rgb(34, 31, 31);
+    color: white;
+  }
+  
+  .btn-back:hover{
+    background: black;
+  }

@@ -1,0 +1,39 @@
+.navbar {
+  background-color: #021428;
+  position: fixed; 
+  top: 0%;
+  left: 0%;
+  width: 100%; 
+}
+
+.navbar-left a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar-right a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+.csiimage {
+  width: 100px;
+  height: 90px;
+}
+
+/* Main content */
+.main {
+  margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
